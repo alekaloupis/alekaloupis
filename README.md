@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
-#### 🔭 Originally graduated as social scientist,  I’m currently working on Instituto de Radiologia - Hospital das Clínicas SP and studying Data Science since 2022
+#### 🔭 Atualmente trabalho no Hospital das Clínicas de SP e pretendo trabalhar profissionalmente na área de dados seja como cientista um posições correlatas
 
-#### 🌱 I’m currently learning SQL, Python, Machine Learning, C, Algorithms and Data Structures
+#### 🌱 Atualmente estou estudando SQL, Python, Machine Learning, Power BI
 
-#### In this page, I am showing the abilities that I have obtained at my studies.
+#### Através dos projetos disponíveis nessa página demonstro as minhas habilidades em resolver problemas de negócio com dados.
 
-#### 📫 How to reach me:
+#### 📫 Como me encontrar:
 
 ##### Linkedin: linkedin.com/in/alessandrokaloupis/
 
