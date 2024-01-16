@@ -1,6 +1,8 @@
 ### Olá 👋
 
-#### 🔭 Atualmente trabalho no Hospital das Clínicas de SP. Pretendo ingressar profissionalmente na área de dados seja como cientista ou posições correlatas.
+#### 🔭 Atualmente trabalho no Hospital das Clínicas de SP.
+
+### Pretendo ingressar profissionalmente na área de dados seja como cientista ou posições correlatas.
 
 #### 🌱 Atualmente estou estudando SQL, Python, Machine Learning, Power BI.
 
