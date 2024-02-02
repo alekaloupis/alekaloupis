@@ -4,7 +4,7 @@
 
 #### Ao me identificar com as carreiras relacionadas a Dados, iniciei meus estudos na área, que incluem ferramentas como Power BI, Excel, linguagens de programação como Python e disciplinas de base como Matemática e Estatística
 
-#### Meu principal objetivo é ingressar profissionalmente na área de dados em posições de Analista ou Cientista de Dados e através dos projetos disponíveis nessa página demonstro as minhas habilidades em gerar valor com dados.
+#### Meu principal objetivo é ingressar profissionalmente na área de dados em posições de Analista ou Cientista de Dados e através dos projetos disponíveis nessa página demonstro as minhas habilidades em gerar valor.
 
 #### 📫 Como me encontrar:
 
