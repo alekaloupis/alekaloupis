@@ -1,12 +1,10 @@
 ### Olá 👋
 
-#### 🔭 Atualmente trabalho no Hospital das Clínicas de SP.
+#### 🔭 Tenho graduação em Ciências Sociais pela USP - Universidade de São Paulo e atualmente trabalho no Hospital das Clínicas de SP.
 
-### Pretendo ingressar profissionalmente na área de dados seja como cientista ou posições correlatas.
+#### Ao me identificar com as carreiras relacionadas a Dados, iniciei meus estudos na área, que incluem ferramentas como Power BI, Excel, linguagens de programação como Python e disciplinas de base como Matemática e Estatística
 
-#### 🌱 Atualmente estou estudando SQL, Python, Machine Learning, Power BI.
-
-#### Através dos projetos disponíveis nessa página demonstro as minhas habilidades em resolver problemas de negócio com dados.
+#### Meu principal objetivo é ingressar profissionalmente na área de dados em posições de Analista ou Cientista de Dados e através dos projetos disponíveis nessa página demonstro as minhas habilidades em gerar valor com dados.
 
 #### 📫 Como me encontrar:
 
