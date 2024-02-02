@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá. Meu nome é Alessandro. Muito prazer! 👋
 
 #### 🔭 Tenho graduação em Ciências Sociais pela USP - Universidade de São Paulo e atualmente trabalho no Hospital das Clínicas de SP.
 
