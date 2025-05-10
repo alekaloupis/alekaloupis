@@ -6,7 +6,6 @@
 
 #### Ao me identificar com as carreiras relacionadas a Dados, iniciei meus estudos na área, que incluem ferramentas como Power BI, Excel, linguagens de programação como Python e disciplinas de base como Matemática e Estatística.
 
-#### Iniciei uma segunda graduação em Ciência da Computação e meu principal objetivo é ingressar profissionalmente na área de dados em posições de Analista ou Cientista de Dados.
 
 #### 📫 Como me encontrar:
 
